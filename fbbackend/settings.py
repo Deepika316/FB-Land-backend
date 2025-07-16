@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-cp@zf9-sj-b21oe#nc!+fvz=y8ed=im@vz0u*5vk73soz!7)zr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fb-land-backend-3.onrender.com']
+
 
 
 # Application definition
